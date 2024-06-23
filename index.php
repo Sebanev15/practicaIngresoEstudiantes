@@ -19,7 +19,7 @@
     <input type="submit" name="boton" value="ingresar">
     </form>
     <h1>
-        Alumnos
+        Alumno
     </h1>
     <?php
         if(isset($_POST["boton"])){
